@@ -156,6 +156,18 @@ ul#menu li a
   text-decoration: none;
   margin-right: 3px;}
 
+.loginButton
+{
+    letter-spacing: 0.1em;
+    font: normal 100% serif;
+  padding: 10px 5px 5px 5px;
+  text-align: center;
+  color: #FFF;
+  text-transform: uppercase;
+  background: #555;
+  text-decoration: none;
+}
+
 ul#menu li a:hover
 { color: #FFF;
   background: #444;}

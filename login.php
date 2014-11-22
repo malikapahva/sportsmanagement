@@ -46,7 +46,7 @@ $md5c = "sdfawe23q45gsfd533fgad";
 			<form action="" method="post">
             <p>User ID: <input type="text" name="userid"></p>
             <p>Password: <input type="password" name="password"></p>
-            <p> <a href='forgot_password.php'>I forgot my password</a> <td width="8">:</td> <input type="submit" name="submit" value="Login"> </p>
+            <p> <a href='forgot_password.php'>I forgot my password</a> <td width="8">:</td> <input class="loginButton" type="submit" name="submit" value="Login"> </p>
             <p>Don't have an account? <a href='registerUser.php'>Register here</a>.</p>
         </form>
         <?php
